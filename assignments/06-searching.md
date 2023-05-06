@@ -10,7 +10,6 @@
     
 
 ## Medium
-- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
