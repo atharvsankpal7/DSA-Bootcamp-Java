@@ -33,7 +33,6 @@
 ## Medium
 
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
-- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
 - [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
 - [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
 - [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
@@ -48,7 +47,6 @@
 - [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
-- [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
 ## Hard
